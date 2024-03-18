@@ -14,24 +14,20 @@
 
 <div id="greeting" align="center">
   <h1>
-    Hey there
+    Hey there, I'm Hafid Siraj AW
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🎓 A fresh graduate from the Computer Science major.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: constantly expands knowledge and experience regarding technological advances.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I play typing games at Z-type and watch movies.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/hafid-siraj-aurakhmah-witra-4a7699233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
