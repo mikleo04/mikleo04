@@ -48,8 +48,8 @@ I am a Full Stack Developer from Indonesia.
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mikleo04&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mikleo04&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikleo04&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
