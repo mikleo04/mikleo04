@@ -9,7 +9,7 @@
 </div>
 
 <div id="counter" align="center">
-   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+   <img src="https://komarev.com/ghpvc/?username=mikleo04&style=flat-square&color=blue" alt="viewer"/>
 </div>
 
 <div id="greeting" align="center">
