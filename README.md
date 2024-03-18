@@ -21,20 +21,17 @@
 
 ---
 
-### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+### About Me :
+I am a Full Stack Developer from Indonesia.
 - 🎓 A fresh graduate from the Computer Science major.
 
 - :seedling: constantly expands knowledge and experience regarding technological advances.
 
 - :zap: In my free time, I play typing games at Z-type and watch movies.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/hafid-siraj-aurakhmah-witra-4a7699233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
